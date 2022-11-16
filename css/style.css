@@ -75,3 +75,7 @@ ul{
 .submenu li:hover{
     background: #113097;
 }
+
+content > form{
+    color: black;
+}
